@@ -1,4 +1,4 @@
-##前言
+##前言非常感谢作者提供发资料,这些基本是一些 category 的分类
 个人github：https://github.com/xfxfxf
 
 Segment Fault：http://segmentfault.com/a/1190000003520629
